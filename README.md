@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">I am a Full-Stack Developer (Angular + NodeJS) with 2 years of overall experience.<br> <br>My specialization is prototyping and developing responsive web interfaces, working with the server side of the applications and microservices. <br><br>I interested in challenging application development, team collaboration and  self improvements. <br><br>In addition to technical skills, I also possess advanced soft skills such as communication, teamwork, analytical thinking, and problem-solving abilities.<br><br><a href="https://drive.google.com/drive/folders/10hOJZE4eIr6HNAH7zIoQRQDi0yJc9XCv?usp=sharing" target="_blank" >CV</a></p>
+<h4 align="left">About</h4>
+
+###
+
+<p align="left">I am a Full-Stack Developer (Angular + NodeJS) with 2 years of overall experience.<br>My specialization is prototyping and developing responsive web interfaces, working with the server side of the applications and microservices. <br>I interested in challenging application development, team collaboration and  self improvements. <br>In addition to technical skills, I also possess advanced soft skills such as communication, teamwork, analytical thinking, and problem-solving abilities.</p>
 
 ###
 
@@ -34,7 +38,7 @@
 
 ###
 
-<p align="left"> Contact me: <br> Email: fresemin@gmail.com</p>
+<p align="left"> Contact me: <br> Email: fresemin@gmail.com <br><br> <a href="https://drive.google.com/drive/folders/10hOJZE4eIr6HNAH7zIoQRQDi0yJc9XCv?usp=sharing" target="_blank" >My CV</a></p>
 
 ###
 
