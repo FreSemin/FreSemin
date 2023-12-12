@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Full-Stack Developer (Angular + NodeJS) with 2 years of overall experience. <br>My specialization is prototyping and developing responsive web interfaces, working with the server side of the applications and microservices. I interested in challenging application development, team collaboration and  self improvements. In addition to technical skills, I also possess advanced soft skills such as communication, teamwork, analytical thinking, and problem-solving abilities.<br><a href="https://drive.google.com/drive/folders/10hOJZE4eIr6HNAH7zIoQRQDi0yJc9XCv?usp=sharing" target="_blank" >My CV </a></p>
+<p align="left">I am a Full-Stack Developer (Angular + NodeJS) with 2 years of overall experience.<br> <br>My specialization is prototyping and developing responsive web interfaces, working with the server side of the applications and microservices. <br><br>I interested in challenging application development, team collaboration and  self improvements. <br><br>In addition to technical skills, I also possess advanced soft skills such as communication, teamwork, analytical thinking, and problem-solving abilities.<br><a href="https://drive.google.com/drive/folders/10hOJZE4eIr6HNAH7zIoQRQDi0yJc9XCv?usp=sharing" target="_blank" >CV</a></p>
 
 ###
 
@@ -35,23 +35,18 @@
 ###
 
 <div align="left">
-  <a href="fresemin@gmail.com" target="_blank">
+  <a href="mailto:fresemin@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Contact%20me&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FreSemin/FreSemin/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FreSemin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FreSemin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ###
 
