@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am a Full-Stack Developer (Angular + NodeJS) with 2 years of overall experience.<br>My specialization is prototyping and developing responsive web interfaces, working with the server side of the applications and microservices. <br>I interested in challenging application development, team collaboration and  self improvements. <br>In addition to technical skills, I also possess advanced soft skills such as communication, teamwork, analytical thinking, and problem-solving abilities.</p>
+<p align="left">I am a Full-Stack Developer (Angular + NodeJS) with 3 years of overall experience.<br>My specialization is prototyping and developing responsive web interfaces, working with the server side of the applications and microservices. <br>I interested in challenging application development, team collaboration and  self improvements. <br>In addition to technical skills, I also possess advanced soft skills such as communication, teamwork, analytical thinking, and problem-solving abilities.</p>
 
 ###
 
