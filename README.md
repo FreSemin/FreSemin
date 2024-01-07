@@ -1,57 +1,20 @@
-<h2 align="left">Hello 👋!  My name is Andrei.</h2>
+# Hi there 👋! My name is Andrei.
 
-###
+## 💫 About Me:
 
-<h4 align="left">About</h4>
+🔥 3 Years in Software Engineering <br>
+🔭 I’m currently working on something exacting<br>👯 I’m looking to collaborate on interesting project<br>🤝 I’m ready to help<br>🌱 I’m learning new things every day<br>⚡ Fun fact: I'm thinking before do it
 
-###
+[![CV](https://img.shields.io/badge/CV-8A2BE2?style=for-the-badge)](https://drive.google.com/drive/folders/10hOJZE4eIr6HNAH7zIoQRQDi0yJc9XCv?usp=sharing)
 
-<p align="left">I am a Full-Stack Developer (Angular + NodeJS) with 3 years of overall experience.<br>My specialization is prototyping and developing responsive web interfaces, working with the server side of the applications and microservices. <br>I interested in challenging application development, team collaboration and  self improvements. <br>In addition to technical skills, I also possess advanced soft skills such as communication, teamwork, analytical thinking, and problem-solving abilities.</p>
+## 🤝 Contacts:
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fresemin) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=fresemin@gmail.com)](https://mailto:fresemin@gmail.com)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-</div>
+# 💻 Tech Stack:
 
-###
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="left"> Contact me: <br> Email: fresemin@gmail.com <br><br> <a href="https://drive.google.com/drive/folders/10hOJZE4eIr6HNAH7zIoQRQDi0yJc9XCv?usp=sharing" target="_blank" >My CV</a></p>
+### ⚙️ GitHub Analytics
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=FreSemin.FreSemin&"  />
-</div>
-
-###
+![](https://github-readme-streak-stats.herokuapp.com/?user=FreSemin&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FreSemin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
