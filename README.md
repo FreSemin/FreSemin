@@ -3,7 +3,7 @@
 ## 💫 About Me:
 
 🔥 2 Years in Software Engineering <br>
-🔭 I’m currently working on something exacting<br>👯 I’m looking to collaborate on interesting project<br>🤝 I’m ready to help<br>🌱 I’m learning new things every day<br>⚡ Fun fact: I'm thinking before do it, twice.
+⚡ Fun fact: I'm thinking twice before do it.
 
 [![CV](https://img.shields.io/badge/CV-8A2BE2?style=for-the-badge)](https://drive.google.com/drive/folders/10hOJZE4eIr6HNAH7zIoQRQDi0yJc9XCv?usp=sharing)
 
