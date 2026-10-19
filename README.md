@@ -16,4 +16,4 @@
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/fresemin) · fresemin@gmail.com
+[LinkedIn](https://www.linkedin.com/in/fresemin) · fresemin@gmail.com · [Telegram](https://t.me/FreSemin)
