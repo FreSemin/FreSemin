@@ -1,19 +1,19 @@
-# Hi! My name is Andrei 👋
+# Hi, I'm Andrei 👋
 
-- Software Engineer with 4+ years of commercial experience
-- Check out my resume
-  - [![](https://img.shields.io/badge/MY%20CV-4faf4e?style=for-the-badge)](https://drive.google.com/drive/folders/10hOJZE4eIr6HNAH7zIoQRQDi0yJc9XCv?usp=sharing)
+**Backend Developer** with 4+ years of commercial experience in Node.js, TypeScript and NestJS.
 
-## Tech Stack:
+- Delivered 3 MVPs to production as a key backend developer
+- Built a standalone notification service (RabbitMQ, ~50,000 users) and payment processing with 2 providers
+- Open to relocation and remote work
 
-### Back-end:
+📄 [My CV (PDF)](https://drive.google.com/drive/folders/10hOJZE4eIr6HNAH7zIoQRQDi0yJc9XCv?usp=sharing)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,postgresql,mongodb,rabbitmq,redis,docker)](https://skillicons.dev)
+## Tech stack
 
-### Front-end:
+**Backend:** Node.js · NestJS · TypeScript · PostgreSQL · MongoDB · RabbitMQ · Redis · Docker
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular)](https://skillicons.dev)
+**Frontend:** Angular · Vue 3 · HTML · CSS
 
-### GitHub Analytics
+## Contact
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=FreSemin&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FreSemin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[LinkedIn](https://www.linkedin.com/in/fresemin) · fresemin@gmail.com
