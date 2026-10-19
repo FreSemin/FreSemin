@@ -6,7 +6,7 @@
 - Built a standalone notification service (RabbitMQ, ~50,000 users) and payment processing with 2 providers
 - Open to relocation and remote work
 
-📄 [My CV (PDF)](https://drive.google.com/drive/folders/10hOJZE4eIr6HNAH7zIoQRQDi0yJc9XCv?usp=sharing)
+📄 [My CV (PDF)](https://drive.google.com/file/d/1jUsMiYOzECDkWUN5stfs78pcVpg4sDiz/view?usp=sharing)
 
 ## Tech stack
 
